@@ -29,6 +29,13 @@ Celo Camp is a virtual accelerator and competition focused on helping startups a
 
 [View Celo Camp](https://www.celocamp.com/)
 
+### Kolor
+
+Kolor is a ReFi platform that allows democratizing access to conservation, by selling conservation tokens in Patagonia.
+
+- [Website](https://kolorapp.com)
+- [GitHub](https://github.com/kolorapp/dapp-ui)
+
 ### GoodGhosting
 
 GoodGosting is a no-loss DeFi saving game. Users can compete with others to get higher interest rates than when they would save by themselves. We created a shared saving pool smart contract, which plugs into existing Celo DeFi projects (e.g. Moola) to generate interest for all winning players.
